@@ -37,7 +37,7 @@ To see the changes in code, search for "_KAWS-Changes_" in the files shader.cc, 
 
 ## IPC Performance of Different Warp Schedulers (Normalised to LRR)
 
-<img width="1000" src="EndSem_img/IPC.png">
+<img width="1000" src="evaluation_img/IPC.png">
 
 ## With and Without Warp Sharing (Normalised to LRR without Warp Sharing)
 
@@ -73,8 +73,8 @@ To see the changes in code, search for "_KAWS-Changes_" in the files shader.cc, 
 
 This is found in the output log under the name gpu_tot_sim_cycles
 
-<img width="1000" src="EndSem_img/gpu_tot_sim_cycle.png">
+<img width="1000" src="evaluation_img/gpu_tot_sim_cycle.png">
 
 ## Stall Cycle Breakdown (Normalised to LRR)
 
-<img width="1000" src="EndSem_img/endsem_cycle_img_1.png">
+<img width="1000" src="evaluation_img/endsem_cycle_img_1.png">
